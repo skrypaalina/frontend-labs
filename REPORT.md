@@ -15,11 +15,11 @@ npm -v
 git --version
 Результати перевірки:
 Програма	Версія
-Node.js	[вставте результат node -v]
-npm	[вставте результат npm -v]
-Git	[вставте результат git --version]
-Редактор коду	Visual Studio Code
+Node.js	<img width="520" height="102" alt="image" src="https://github.com/user-attachments/assets/39f5166a-389d-43e0-bce6-3318770195f0" />
 
+npm	<img width="382" height="87" alt="image" src="https://github.com/user-attachments/assets/c688559b-fc2a-4583-8127-87b26562a45d" />
+
+Git	<img width="451" height="92" alt="image" src="https://github.com/user-attachments/assets/e7615446-55ff-42e4-85cf-38e78e9e8b66" />
 
 2. Робота з репозиторієм
 Для лабораторної використано GitHub-репозиторій:
@@ -47,3 +47,4 @@ https://github.com/skrypaalina/frontend-labs/tree/laba1
 У репозиторії підготовлено React-проєкт на Vite у папці laba1/laba1. Проєкт можна запустити локально за допомогою команд npm install і npm run dev. Файли проєкту та звіт доступні в GitHub-репозиторії.
 Висновок
 Під час лабораторної роботи перевірено інструменти Node.js і Git, підготовлено робоче середовище у Visual Studio Code та створено початковий React-проєкт за допомогою Vite. Отримано навички запуску проєкту, роботи з Git і збереження результатів у GitHub.
+<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/22fe0ec3-f511-4ab9-b24e-5c3a7cd31774" />
